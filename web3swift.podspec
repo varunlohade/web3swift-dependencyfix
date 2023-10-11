@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
 
   s.dependency 'BigInt', '~> 5.2.0'
-  s.dependency 'secp256k1.swift', '0.12.0'
+  s.dependency 'secp256k1.swift'
   s.dependency 'GenericJSON', '~> 2.0'
   s.dependency 'Logging', '~> 1.0.0'
 
